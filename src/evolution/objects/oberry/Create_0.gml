@@ -1,0 +1,15 @@
+berryType = 0;
+xscalespeed = 1
+yscalespeed = 1
+drag = false;
+occupiedLevel = 0;
+draggable = true;
+xscale_goto = 0.75;
+yscale_goto = 0.75;
+x_goto = x
+y_goto = y
+x_min = 133;
+x_max = 1744;
+y_min = 564;
+y_max = 860;
+alphagoto = 1

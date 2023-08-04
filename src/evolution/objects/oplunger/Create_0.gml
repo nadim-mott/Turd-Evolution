@@ -1,0 +1,1 @@
+coinsgained = 0;

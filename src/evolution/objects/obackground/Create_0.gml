@@ -1,0 +1,10 @@
+sprite_index = sBackground;
+image_index = 0;
+xscale_goto = 1;
+yscale_goto = 1;
+x_goto = x;
+y_goto = y;
+scalespeed = 10;
+image_yscale = 1;
+image_yscale = 1;
+dlevel = 0;
